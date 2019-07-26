@@ -1,0 +1,15 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Electromagnetic NDT.blg'
+[24] biber-MSWIN64:315> INFO - === 
+[45] Biber.pm:371> INFO - Reading 'Electromagnetic NDT.bcf'
+[122] Biber.pm:889> INFO - Found 34 citekeys in bib section 0
+[134] Biber.pm:4093> INFO - Processing section 0
+[145] Biber.pm:4254> INFO - Looking for bibtex format file 'My Library.bib' for section 0
+[167] bibtex.pm:1523> INFO - LaTeX decoding ...
+[597] bibtex.pm:1340> INFO - Found BibTeX data source 'My Library.bib'
+[783] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[783] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[783] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[783] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-UK'
+[805] bbl.pm:636> INFO - Writing 'Electromagnetic NDT.bbl' with encoding 'UTF-8'
+[817] bbl.pm:739> INFO - Output to Electromagnetic NDT.bbl

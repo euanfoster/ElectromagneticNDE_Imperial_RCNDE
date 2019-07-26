@@ -1,0 +1,1336 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{nagyElectromagneticNDE2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a75aaa9ed6ab22f1e92a93dbd003cf86}{%
+           family={Nagy},
+           familyi={N\bibinitperiod},
+           given={Peter\bibnamedelima B.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \strng{fullhash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \strng{bibnamehash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \strng{authorbibnamehash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \strng{authornamehash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \strng{authorfullhash}{a75aaa9ed6ab22f1e92a93dbd003cf86}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electromagnetic {{NDE}}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\JZJYHSST\\Electromagnetic NDE lecture notes Mar 11 pdf.pdf
+      \endverb
+    \endentry
+    \entry{goldfineMagnetometersImprovedMaterials1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a0679d01e4a3174e10f4dfed7f9f710}{%
+           family={Goldfine},
+           familyi={G\bibinitperiod},
+           given={Neil\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \strng{fullhash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \strng{bibnamehash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \strng{authorbibnamehash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \strng{authornamehash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \strng{authorfullhash}{1a0679d01e4a3174e10f4dfed7f9f710}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper describes the 'imposed omega-k magnetometers', a new type of magnetometers designed for improved NDE of aerospace materials, together with the methods of measurement. The imposed omega-k magnetometers not only impose a time-varying magnetic field on the material under test at prescribed frequency, but also impose a magnetic field with a prescribed spatial wavelength that is independent of the input current frequency. The spatial wavelength of an imposed omega-k magnetometer with a periodic winding construct can be used to vary the depth of penetration into magnetic and conducting media, without adjusting the input current frequency. An example of an imposed omega-k magnetometer is the 'meandering winding magnetometer' of Melcher (1991) and Melcher and Goldfine.}
+      \field{day}{1}
+      \field{issn}{0025-5327}
+      \field{journaltitle}{Materials Evaluation}
+      \field{month}{3}
+      \field{shortjournal}{Materials Evaluation}
+      \field{title}{Magnetometers for Improved Materials Characterization in Aerospace Applications}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{51}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{396\bibrangedash 405}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://adsabs.harvard.edu/abs/1993MatEv..51..396G
+      \endverb
+      \verb{url}
+      \verb http://adsabs.harvard.edu/abs/1993MatEv..51..396G
+      \endverb
+      \keyw{Aerospace Industry,Composite Materials,Magnetic Diffusion,Magnetometers,Materials Science,Metal Coatings,Nondestructive Tests,Thin Films}
+    \endentry
+    \entry{jacksonAssessmentEddyCurrent}{article}{}
+      \name{author}{2}{}{%
+        {{hash=01b7c8a76f517a39e86b78246918a232}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={D\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b8ff138b46efcdcd5c132dc167700a58}{%
+           family={Norris},
+           familyi={N\bibinitperiod},
+           given={W\bibnamedelima E},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{52a98f0deddb375ab5346eb768597ee3}
+      \strng{fullhash}{52a98f0deddb375ab5346eb768597ee3}
+      \strng{bibnamehash}{52a98f0deddb375ab5346eb768597ee3}
+      \strng{authorbibnamehash}{52a98f0deddb375ab5346eb768597ee3}
+      \strng{authornamehash}{52a98f0deddb375ab5346eb768597ee3}
+      \strng{authorfullhash}{52a98f0deddb375ab5346eb768597ee3}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{20555-0001}
+      \field{langid}{english}
+      \field{title}{Assessment of {{Eddy Current Testing}} for the {{Detection}} of {{Cracks}} in {{Cast Stainless Steel Reactor Piping Components}}}
+      \field{pages}{166}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\BF6TAUTI\\Jackson and Norris - Prepared for Division of Fuel, Engineering and Rad.pdf
+      \endverb
+    \endentry
+    \entry{dehalleuxEddyCurrentMeasurement1996}{article}{useprefix=true}
+      \name{author}{3}{}{%
+        {{hash=e2bc8c003374db5df4db0b27ece6270c}{%
+           family={Halleux},
+           familyi={H\bibinitperiod},
+           given={Benoit},
+           giveni={B\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=02ac806145421e88fd9ddccc49d7e032}{%
+           family={Limburg\bibnamedelima Stirum},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=6a578012937c46d58040a63718c6961f}{%
+           family={I'tchelintsev},
+           familyi={I\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \strng{fullhash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \strng{bibnamehash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \strng{authorbibnamehash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \strng{authornamehash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \strng{authorfullhash}{a7502da4dbd179d9ef72b73af3950eb3}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A method to determine the wall thickness and conductivity of non-magnetic tubes using eddy-current measurements is presented. The equivalent circuit impedance formulae lor an infinitely long solenoid with a conductive tube inside are derived. This simplified theoretical model is applied to calculate the tube wall thickness using the measured resistance and inductance of a real long coil with a long tube inside. In order to take into account the coil’s finite length, an apparent fill factor is introduced. The last parameter is determined experimentally and used as the fill factor in the theoretical model. We report experimental tests for brass and copper tubes of nominal dliameters in the range 12-20mm and nominal thickness from 0.9 to 2.5mm. An uncertainty of the wall thickness measurements typically within 2\% is obtained. ‘Copyright 0 1996 Elsevier Science Ltd.}
+      \field{issn}{09638695}
+      \field{journaltitle}{NDT \& E International}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{NDT \& E International}
+      \field{title}{Eddy Current Measurement of the Wall Thickness and Conductivity of Circular Non-Magnetic Conductive Tubes}
+      \field{volume}{29}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{103\bibrangedash 109}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/0963-8695(96)00001-1
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\USXR8VLF\\de Halleux et al. - 1996 - Eddy current measurement of the wall thickness and.pdf
+      \endverb
+    \endentry
+    \entry{forsterSensitiveEddycurrentTesting1974}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d9accf0df2ac0cb749f78d26edcf0e7e}{%
+           family={Förster},
+           familyi={F\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \strng{fullhash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \strng{bibnamehash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \strng{authorbibnamehash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \strng{authornamehash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \strng{authorfullhash}{d9accf0df2ac0cb749f78d26edcf0e7e}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00291021}
+      \field{journaltitle}{Non-Destructive Testing}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{Non-Destructive Testing}
+      \field{title}{Sensitive Eddy-Current Testing of Tubes for Defects on the Inner and Outer Surfaces}
+      \field{volume}{7}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{pages}{28\bibrangedash 36}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/0029-1021(74)90023-1
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\2XGTNJPA\\Förster - 1974 - Sensitive eddy-current testing of tubes for defect.pdf
+      \endverb
+    \endentry
+    \entry{haikemetalPancakeCoilHaiKe}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9fbc9f92c2893f81d73f7a2fa23aebbf}{%
+           family={{haikemetal}},
+           familyi={h\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \strng{fullhash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \strng{bibnamehash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \strng{authorbibnamehash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \strng{authornamehash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \strng{authorfullhash}{9fbc9f92c2893f81d73f7a2fa23aebbf}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Pancake {{Coil}} – {{HaiKe Metal}}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\B7443Z7W\\pancake-coil.html
+      \endverb
+      \verb{urlraw}
+      \verb http://haikemetal.com/product/pancake-coil/
+      \endverb
+      \verb{url}
+      \verb http://haikemetal.com/product/pancake-coil/
+      \endverb
+    \endentry
+    \entry{olympusEddyCurrentArray}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9dcdbb68a8a63caa29379592f4d2017f}{%
+           family={{Olympus}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \strng{fullhash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \strng{bibnamehash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \strng{authorbibnamehash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \strng{authornamehash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \strng{authorfullhash}{9dcdbb68a8a63caa29379592f4d2017f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eddy {{Current Array Tutorial}} | {{Olympus IMS}}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\2X987VK5\\eca-tutorial.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.olympus-ims.com/en/ndt-tutorials/eca-tutorial/
+      \endverb
+      \verb{url}
+      \verb https://www.olympus-ims.com/en/ndt-tutorials/eca-tutorial/
+      \endverb
+    \endentry
+    \entry{ohanianApproachElectroMagneto1983}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2a6954f63456009792934611b93cbbd}{%
+           family={Ohanian},
+           familyi={O\bibinitperiod},
+           given={Hans\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2a6954f63456009792934611b93cbbd}
+      \strng{fullhash}{f2a6954f63456009792934611b93cbbd}
+      \strng{bibnamehash}{f2a6954f63456009792934611b93cbbd}
+      \strng{authorbibnamehash}{f2a6954f63456009792934611b93cbbd}
+      \strng{authornamehash}{f2a6954f63456009792934611b93cbbd}
+      \strng{authorfullhash}{f2a6954f63456009792934611b93cbbd}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9505, 1943-2909}
+      \field{journaltitle}{American Journal of Physics}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{American Journal of Physics}
+      \field{title}{On the Approach to Electro‐ and Magneto‐static Equilibrium}
+      \field{volume}{51}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{1020\bibrangedash 1022}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1119/1.13364
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\3ZF6X9KY\\Ohanian - 1983 - On the approach to electro‐ and magneto‐static equ.pdf
+      \endverb
+    \endentry
+    \entry{krausePULSEDEDDYCURRENT2010}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=52e669523fa3c94080ca45c4223b8014}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c6d708329a3cebb7ff92134f32017358}{%
+           family={Harlley},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6b5f5fcde1cfe629b3b596dc857c19f1}{%
+           family={Babbar},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f85a73f602640e2b0cf5cf9c11878792}{%
+           family={Wannamaker},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a0977bded0ed14de4c98738f49d65eda}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Donald\bibnamedelima O.},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=6a3895532a830e54cfed549f8324375e}{%
+           family={Chimenti},
+           familyi={C\bibinitperiod},
+           given={Dale\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Kingston (Rhode Island)}%
+      }
+      \strng{namehash}{806a6afb61abeb962656a5e46f0091fd}
+      \strng{fullhash}{b64e83590a27bec8cfc7f3aabefb300c}
+      \strng{bibnamehash}{b64e83590a27bec8cfc7f3aabefb300c}
+      \strng{authorbibnamehash}{b64e83590a27bec8cfc7f3aabefb300c}
+      \strng{authornamehash}{806a6afb61abeb962656a5e46f0091fd}
+      \strng{authorfullhash}{b64e83590a27bec8cfc7f3aabefb300c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nickel Aluminum Bronze (NAB) is a material with marine environment applications that under certain conditions can undergo selective phase corrosion (SPC). SPC involves the removal of minority elements while leaving behind a copper matrix. Pulsed eddy current (PEC) was evaluated for determination of SPC thickness on a NAB valve section with access from the surface corroded side. A primarily linear response of PEC amplitude, up to the maximum available SPC thickness of 4 mm was observed. The combination of reduced conductivity and permeability in the SPC phase relative to the base NAB was used to explain the observed sensitivity of PEC to SPC thickness variations.}
+      \field{eventtitle}{{{REVIEW OF PROGRESS IN QUANTITATIVE NONDESTRUCTIVE EVALUATION VOLUME}} 29}
+      \field{langid}{english}
+      \field{title}{{{PULSED EDDY CURRENT THICKNESS MEASUREMENT OF SELECTIVE PHASE CORROSION ON NICKEL ALUMINUM BRONZE VALVES}}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{401\bibrangedash 408}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1063/1.3362422
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\II9GHK6E\\Krause et al. - 2010 - PULSED EDDY CURRENT THICKNESS MEASUREMENT OF SELEC.pdf
+      \endverb
+    \endentry
+    \entry{fuFactorsAffectingSpatial}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a498ef07e3d0a70a18a471263e71d36d}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d5f83845dd4ecacac572f50a11eeabb4}{%
+           family={Underhill},
+           familyi={U\bibinitperiod},
+           given={P\bibnamedelima R},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=52e669523fa3c94080ca45c4223b8014}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={T\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \strng{fullhash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \strng{bibnamehash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \strng{authorbibnamehash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \strng{authornamehash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \strng{authorfullhash}{558e891bb3d4fea110a2e1f48ea2c6a9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pulsed eddy current is an emerging technique for measuring wall thinning of steel under insulation. Ideally, it would be desirable to obtain the most localised information possible. This paper examines three different probe orientations that could be used for their influence on the pulsed eddy current method to localize information on pipe wall thickness. All three orientations will have difficulty measuring highly localized thinning because the eddy currents that give rise to their signal spread out rapidly in the region commonly used for measuring thickness, i.e. the long time decay. Of the three orientations, the longitudinal one does the best job of localizing the eddy currents directly under the probe.}
+      \field{langid}{english}
+      \field{title}{Factors {{Affecting Spatial Resolution}} in {{Pulsed Eddy Current Inspection}} of {{Pipe}}}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\2PMXE6HW\\Fu et al. - Factors Affecting Spatial Resolution in Pulsed Edd.pdf
+      \endverb
+    \endentry
+    \entry{xuAssessmentWallThinning2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=453e92f4a74ed82766c6354f1cda71ec}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1d0ee2d58179664e04b07e85f220723c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xinjun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2bb35bf59aaca26e59bbdb0d0192f3b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f5697be92487ec0e6515ba0845cc0f5e}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yihua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ea4c902b82dad19f87c843737deb4d6}
+      \strng{fullhash}{062f1245b9113bc8342e1e8a6bd09f23}
+      \strng{bibnamehash}{062f1245b9113bc8342e1e8a6bd09f23}
+      \strng{authorbibnamehash}{062f1245b9113bc8342e1e8a6bd09f23}
+      \strng{authornamehash}{3ea4c902b82dad19f87c843737deb4d6}
+      \strng{authorfullhash}{062f1245b9113bc8342e1e8a6bd09f23}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pulsed eddy current testing (PECT) is a powerful candidate for the detection of wall thinning of insulated ferromagnetic pipes in petrochemical and power generation plants. The main purpose of this study is to ﬁnd an efﬁcient and easy-to-use signal feature for the assessment of wall thinning. Analytical modeling for a PECT probe over the insulated piping system is performed and its result is veriﬁed by experimental test. Two time-related features, the peak value and the time-to-peak, are found in the differential signal obtained by subtracting the test signal from the reference signal. The time-to-peak is superior to the peak value due to its linear variation with wall thickness. Inﬂuences of various conditions in practical testing on the PECT signal are investigated. Results show that the time-to-peak is independent of the insulation thickness and the probe lift-off. Robustness of time-topeak to probe conﬁguration is also validated by employing three probes of different dimensions and structures. To determine the linear range of time-to-peak with amount of wall thinning, differential signals based on different reference thicknesses are examined. Results show that the time-to-peak only keeps linear for the relative wall thinning less than 60\%, but still can be effectively used for calibration purpose in periodical in-service inspection of insulated pipeline.}
+      \field{issn}{09638695}
+      \field{journaltitle}{NDT \& E International}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{NDT \& E International}
+      \field{title}{Assessment of Wall Thinning in Insulated Ferromagnetic Pipes Using the Time-to-Peak of Differential Pulsed Eddy-Current Testing Signals}
+      \field{volume}{51}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{24\bibrangedash 29}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.ndteint.2012.07.004
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\8U3SD62H\\Xu et al. - 2012 - Assessment of wall thinning in insulated ferromagn.pdf
+      \endverb
+    \endentry
+    \entry{sophianPulsedEddyCurrent2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f5845a1ea987e50d84a6f07249b9c38a}{%
+           family={Sophian},
+           familyi={S\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7b6044fc1191489af380db73507416be}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Guiyun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3d9c321b6dbc834550d9770b0abbb6da}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Mengbao},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \strng{fullhash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \strng{bibnamehash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \strng{authorbibnamehash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \strng{authornamehash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \strng{authorfullhash}{45f4abd71c4f9411e566b5c0fd6f76e5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pulsed eddy current (PEC) non-destructive testing and evaluation (NDT\&E) has been around for some time and it is still attracting extensive attention from researchers around the globe, which can be witnessed through the reports reviewed in this paper. Thanks to its richness of spectral components, various applications of this technique have been proposed and reported in the literature covering both structural integrity inspection and material characterization in various industrial sectors. To support its development and for better understanding of the phenomena around the transient induced eddy currents, attempts for its modelling both analytically and numerically have been made by researchers around the world. This review is an attempt to capture the state-of-the-art development and applications of PEC, especially in the last 15 years and it is not intended to be exhaustive. Future challenges and opportunities for PEC NDT\&E are also presented.}
+      \field{issn}{1000-9345, 2192-8258}
+      \field{journaltitle}{Chinese Journal of Mechanical Engineering}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shortjournal}{Chin. J. Mech. Eng.}
+      \field{shorttitle}{Pulsed {{Eddy Current Non}}-Destructive {{Testing}} and {{Evaluation}}}
+      \field{title}{Pulsed {{Eddy Current Non}}-Destructive {{Testing}} and {{Evaluation}}: {{A Review}}}
+      \field{volume}{30}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{500\bibrangedash 514}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10033-017-0122-4
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\94NEL264\\Sophian et al. - 2017 - Pulsed Eddy Current Non-destructive Testing and Ev.pdf
+      \endverb
+    \endentry
+    \entry{ulapaneDesigningPulsedEddy2017}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2e1f5742d524d4b629e1e583126e9eb7}{%
+           family={Ulapane},
+           familyi={U\bibinitperiod},
+           given={Nalika},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e8e3955f50d538fc566ff677c683200b}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Linh},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bcd9d89f6226653bf95f3a6864b36df9}{%
+           family={Miro},
+           familyi={M\bibinitperiod},
+           given={Jaime\bibnamedelima Valls},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=b772348a2df18e2e1ebe16bb1f99a2cf}{%
+           family={Alempijevic},
+           familyi={A\bibinitperiod},
+           given={Alen},
+           giveni={A\bibinitperiod}}}%
+        {{hash=baa9745089863f0d1a5fb1d472a0a6a7}{%
+           family={Dissanayake},
+           familyi={D\bibinitperiod},
+           given={Gamini},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Siem Reap}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e530b928b68da5d9a7460d00fe772e25}
+      \strng{fullhash}{98d42725c06ea1d7c98de93942daf30f}
+      \strng{bibnamehash}{98d42725c06ea1d7c98de93942daf30f}
+      \strng{authorbibnamehash}{98d42725c06ea1d7c98de93942daf30f}
+      \strng{authornamehash}{e530b928b68da5d9a7460d00fe772e25}
+      \strng{authorfullhash}{98d42725c06ea1d7c98de93942daf30f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pulsed Eddy Current (PEC) sensors possess proven functionality in measuring ferromagnetic material thickness. However, most commercial PEC service providers as well as researchers have investigated and claim functionality of sensors on homogeneous structural steels (steel grade Q235 for example). In this paper, we present design steps for a PEC sensing set-up to measure thickness of cast iron, which is unlike steel, is a highly inhomogeneous and non-linear ferromagnetic material. The setup includes a PEC sensor, sensor excitation and reception circuits, and a unique signal processing method. The signal processing method yields a signal feature which behaves as a function of thickness. The signal feature has a desirable characteristic of being lowly inﬂuenced by lift-off. Experimental results show that the set-up is usable for Non-destructive Evaluation (NDE) applications such as cast iron water pipe assessment.}
+      \field{booktitle}{2017 12th {{IEEE Conference}} on {{Industrial Electronics}} and {{Applications}} ({{ICIEA}})}
+      \field{eventtitle}{2017 12th {{IEEE Conference}} on {{Industrial Electronics}} and {{Applications}} ({{ICIEA}})}
+      \field{isbn}{978-1-5090-6161-7}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Designing a Pulsed Eddy Current Sensing Set-up for Cast Iron Thickness Assessment}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{901\bibrangedash 906}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICIEA.2017.8282967
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\D67GY6NU\\Ulapane et al. - 2017 - Designing a pulsed eddy current sensing set-up for.pdf
+      \endverb
+    \endentry
+    \entry{latifAPPLICATIONPECSYSTEM}{article}{}
+      \name{author}{4}{}{%
+        {{hash=09552bd1404fa46337f97b19823d06fa}{%
+           family={Latif},
+           familyi={L\bibinitperiod},
+           given={Nurul\bibnamedelimb A’in\bibnamedelima Ahmad},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c3d03138730597fe36a1f7096f9cd04c}{%
+           family={Jamaludin},
+           familyi={J\bibinitperiod},
+           given={Nordin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=65352f4f64f98586523a3367ac547be8}{%
+           family={Abidin},
+           familyi={A\bibinitperiod},
+           given={IlhamMukriz\bibnamedelima Zainal},
+           giveni={I\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=f6d4336bfbd40b0990e6851296353b90}{%
+           family={Azaman},
+           familyi={A\bibinitperiod},
+           given={Noorhazleena},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1561606cca387af732c79339ca20d43}
+      \strng{fullhash}{c76c9ab17f7a25c55be6729aa01cfc00}
+      \strng{bibnamehash}{c76c9ab17f7a25c55be6729aa01cfc00}
+      \strng{authorbibnamehash}{c76c9ab17f7a25c55be6729aa01cfc00}
+      \strng{authornamehash}{c1561606cca387af732c79339ca20d43}
+      \strng{authorfullhash}{c76c9ab17f7a25c55be6729aa01cfc00}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pulsed eddy current (PEC) is an advanced non-destructive testing (NDT) technique that operates based on electromagnetic principle and widely used in various industry including aviation, petrochemical and transportation. Compared to conventional eddy current technique, the major advantages of this technique is it contains a wideband of frequency in its excitation which makes it highly sensitive in distinguishing the location of defects deeply buried in conductive materials. The PEC system is established through a combination of several equipment i.e. power supply, oscilloscope, amplifier, pre amplifier and multifunction generator. For the highest sensitivity in detection, the probe that acts as the detector is designed and fabricated with a magnetic sensor at its core. Generally, during the PEC experiment, the probe is place on the surface of the specimen and the signals obtain are simultaneously transferred and displayed on the oscilloscope. Among the basic testing that can be performed by PEC system include conductivity measurement for material sorting and thickness measurement. For the validation purposes, the results obtained through the experiment are compared with the results from finite element method (FEM) simulation conducted using COMSOL software.}
+      \field{langid}{english}
+      \field{title}{{{THE APPLICATION OF PEC SYSTEM ON THICKNESS MEASUREMENT AND MATERIAL SORTING}}}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\6W83CN2F\\Latif et al. - THE APPLICATION OF PEC SYSTEM ON THICKNESS MEASURE.pdf
+      \endverb
+    \endentry
+    \entry{maxwellPECTInstrumentMaxWell2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c026548b7fa4b1f772f2f59374b93bba}{%
+           family={{Maxwell}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c026548b7fa4b1f772f2f59374b93bba}
+      \strng{fullhash}{c026548b7fa4b1f772f2f59374b93bba}
+      \strng{bibnamehash}{c026548b7fa4b1f772f2f59374b93bba}
+      \strng{authorbibnamehash}{c026548b7fa4b1f772f2f59374b93bba}
+      \strng{authornamehash}{c026548b7fa4b1f772f2f59374b93bba}
+      \strng{authorfullhash}{c026548b7fa4b1f772f2f59374b93bba}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[vc\_row full\_width="stretch\_row\_content\_no\_spaces" css=".vc\_custom\_1443185001560\{margin-bottom: 0px !important;padding-bottom: 0px !important;\}"][vc\_column][vc}
+      \field{langid}{dutch}
+      \field{title}{PECT instrument | MaxWell}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\KRPR3KFJ\\pect-instrument.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.maxwellndt.com/pect-instrument/
+      \endverb
+      \verb{url}
+      \verb https://www.maxwellndt.com/pect-instrument/
+      \endverb
+    \endentry
+    \entry{eddyfiPulsedEddyCurrent2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Corrosion under insulation is a major integrity problem. Existing measurement methods over insulation have limitations. Lyft reinvents pulsed eddy current.}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Pulsed {{Eddy Current System}} for {{Corrosion Inspection}}}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\DHMHWIU8\\lyft.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/lyft/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/lyft/
+      \endverb
+    \endentry
+    \entry{eddyfiUsingPulsedEddy2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Using {{Pulsed Eddy Current}} on {{Small}}-{{Diameter Pipes}}}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\PGX5QLW7\\using-pulsed-eddy-current-on-small-diameter-pipes.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/ndt/electromagnetic-testing/using-pulsed-eddy-current-on-small-diameter-pipes/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/ndt/electromagnetic-testing/using-pulsed-eddy-current-on-small-diameter-pipes/
+      \endverb
+    \endentry
+    \entry{eddyfiECADefHiProbe2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{{{ECA DefHi Probe}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\ZFL8YJGT\\eca-defhi-probes.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/products/eca-defhi-probes/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/products/eca-defhi-probes/
+      \endverb
+    \endentry
+    \entry{eddyfiECATechnologyDefHi2019}{video}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{{ECA Technology}} — {{DefHi Tubing Probe}} - {{YouTube}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\NXF6N4FV\\watch.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=bmywFb--p1A
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=bmywFb--p1A
+      \endverb
+    \endentry
+    \entry{nde-edRFTIntro}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7d2fdddc5301afcc8fe3372a15ac9e31}{%
+           family={{NDE-ED}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \strng{fullhash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \strng{bibnamehash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \strng{authorbibnamehash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \strng{authornamehash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \strng{authorfullhash}{7d2fdddc5301afcc8fe3372a15ac9e31}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{RFT}}- {{Intro}}}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\ZIA5RGMQ\\RFT_Intro.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nde-ed.org/EducationResources/CommunityCollege/Other%20Methods/RFT/RFT_Intro.php
+      \endverb
+      \verb{url}
+      \verb https://www.nde-ed.org/EducationResources/CommunityCollege/Other%20Methods/RFT/RFT_Intro.php
+      \endverb
+    \endentry
+    \entry{sullivanComparisonConventionalThroughwall1989a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6b8925e15f5a42f7ef37f15a6637e5e1}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=73e8f169f189e77053a225fca7697260}{%
+           family={Atherton},
+           familyi={A\bibinitperiod},
+           given={D\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9ebcd2c777895cc89d7f70b082689e52}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={T\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \strng{fullhash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \strng{bibnamehash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \strng{authorbibnamehash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \strng{authornamehash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \strng{authorfullhash}{3ff93bfe6095526d1d5e27a760ebf006}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Comparison of Conventional, through-Wall and Remote Fneld Eddy Current Techniques}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\KWCQ4AAU\\Sullivan et al. - 1989 - Comparison of conventional, through-wall and remot.pdf
+      \endverb
+    \endentry
+    \entry{halmshawIntroductionNondestructiveTesting1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=16ba44ba136ea07fe9a8d8cf43c94a29}{%
+           family={Halmshaw},
+           familyi={H\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Abington}%
+      }
+      \strng{namehash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \strng{fullhash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \strng{bibnamehash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \strng{authorbibnamehash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \strng{authornamehash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \strng{authorfullhash}{16ba44ba136ea07fe9a8d8cf43c94a29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-1-85573-314-5}
+      \field{langid}{english}
+      \field{note}{OCLC: 255311890}
+      \field{pagetotal}{126}
+      \field{title}{Introduction to the Non-Destructive Testing of Welded Joints}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Google Drive\\EngD\\Zotero Library\\Halmshaw1996\\Halmshaw_1996_Introduction to the non-destructive testing of welded joints.pdf
+      \endverb
+    \endentry
+    \entry{zhangStudyQuantifyingThickness2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=24f33861e504544064e368c0e4660ec7}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yibing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4eefff27314b2b33415ebd68dbae04cd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yanjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0ea52e7ab1f975cec5236b293944ce32}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Qingwang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba27c6f4c2c847acc8b18aae57c299e4}
+      \strng{fullhash}{cef8918ac14661d021d95f2ff0c512f1}
+      \strng{bibnamehash}{cef8918ac14661d021d95f2ff0c512f1}
+      \strng{authorbibnamehash}{cef8918ac14661d021d95f2ff0c512f1}
+      \strng{authornamehash}{ba27c6f4c2c847acc8b18aae57c299e4}
+      \strng{authorfullhash}{cef8918ac14661d021d95f2ff0c512f1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Remote Field Eddy Current Testing (RFECT) has broad applications in ferromagnetic pipe testing due to the same testing sensitivity to inner and outer wall defects. However, how to quantify wall thickness in the RFECT of pipes is still a big problem. According to researchers' studies, a linear relationship exists between the wall thickness, permeability and conductivity of a pipe and the phase of the RFECT signal. Aiming to quantify wall thickness by using this linear function, it is necessary to further study the effects of pipe permeability and conductivity on the phase of the RFECT signal. When the product value of the permeability and the conductivity of a pipe remains constant, the univariate analysis and Finite Element Analysis (FEA) are employed to analyze the variations among the phase of the RFECT signal caused by different couples of permeability and conductivity. These variations are calibrated by using a nonlinear fitting method. Moreover, Multi-Frequency Eddy Current Testing (MFECT) is applied to inverse the permeability and conductivity of a pipe to compensate for the quantification analysis of wall thickness. The methods proposed in this paper are validated by analyzing the simulation signals and can improve the practicality of RFECT of ferromagnetic pipes.}
+      \field{booktitle}{Sensors}
+      \field{title}{A {{Study}} of {{Quantifying Thickness}} of {{Ferromagnetic Pipes Based}} on {{Remote Field Eddy Current Testing}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3390/s18092769
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Google Drive\\EngD\\Zotero Library\\Zhang et al2018\\Zhang et al_2018_A Study of Quantifying Thickness of Ferromagnetic Pipes Based on Remote Field.pdf
+      \endverb
+      \keyw{Finite Element Analysis,Linear function,Nonlinear system,Quantitation,Simulation,Thickness (graph theory)}
+    \endentry
+    \entry{yushisunFiniteElementModelling1992}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7b63a904986bdc32d29dc45f60b40e41}{%
+           family={{Yu Shi Sun}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=050c5875e893a8612a7ae09ec3968384}{%
+           family={{He Yun Lin}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=b399f6cfdb5f56a8acfaec6d337280ae}{%
+           family={{Mei Juan Chen}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=8fbfc0ca311d11c835b16e66e48ebe90}{%
+           family={{Chun De Wang}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=92e64c53428cb4db5491bacfdd5eeebc}{%
+           family={{Xiao Bing Wu}},
+           familyi={X\bibinitperiod}}}%
+        {{hash=3103e857934bff86dc7954348b6e57e5}{%
+           family={Atherton},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9ebcd2c777895cc89d7f70b082689e52}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{51efc8deea679701a7eddb8941cbdca7}
+      \strng{fullhash}{786ec5b499d50f4e724dc10e81a80a9d}
+      \strng{bibnamehash}{786ec5b499d50f4e724dc10e81a80a9d}
+      \strng{authorbibnamehash}{786ec5b499d50f4e724dc10e81a80a9d}
+      \strng{authornamehash}{51efc8deea679701a7eddb8941cbdca7}
+      \strng{authorfullhash}{786ec5b499d50f4e724dc10e81a80a9d}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A simplified physical model for two-dimensional (2-D) finite element analysis of axially aligned crack responses for the remote field eddy current (RFEC) technique is proposed. Two formulations are applied to model the problems. Reasonable agreement between calculated results and some preliminary experimental results is achieved. A hypothesis, based on the physical model, is presented. It explains the RFEC signals from axially aligned cracks and makes some predictions of possible features for future verification.{$<>$}}
+      \field{issn}{0018-9464}
+      \field{journaltitle}{IEEE Transactions on Magnetics}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Finite Element Modelling and Physics of Remote Field Eddy Current Responses for Axially Aligned Cracks}
+      \field{volume}{28}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{1941\bibrangedash 1947}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/20.144752
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Google Drive\\EngD\\Zotero Library\\Yu Shi Sun et al1992\\Yu Shi Sun et al_1992_Finite element modelling and physics of remote field eddy current responses for.pdf;C:\\Users\\Euan\\Zotero\\storage\\GBL665NB\\144752.html
+      \endverb
+      \keyw{Inspection,Steel,Transducers,2D FEA,axially aligned cracks,Computational modeling,crack detection,eddy current inspection,eddy current testing,Eddy currents,finite element analysis,Finite element methods,Magnetic fields,Maxwell laws,physical model,Physics,remote field eddy current responses,Sun}
+    \endentry
+    \entry{eddyfiRemoteFieldTestingRFT}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fa033781aa279bf5619203439837711}{%
+           family={{Eddyfi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fa033781aa279bf5619203439837711}
+      \strng{fullhash}{0fa033781aa279bf5619203439837711}
+      \strng{bibnamehash}{0fa033781aa279bf5619203439837711}
+      \strng{authorbibnamehash}{0fa033781aa279bf5619203439837711}
+      \strng{authornamehash}{0fa033781aa279bf5619203439837711}
+      \strng{authorfullhash}{0fa033781aa279bf5619203439837711}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Remote-field testing (RFT) is a non-destructive testing technique mainly used to find defects in steel pipes and tubes. Find out how it works.}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Remote-{{Field Testing}} ({{RFT}})}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\R2NFCZ8D\\remote-field-testing-rft.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/technologies/remote-field-testing-rft/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/technologies/remote-field-testing-rft/
+      \endverb
+    \endentry
+    \entry{islaEMATPhasedArray2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3898c188a3550cd0b17c173bc8792fd0}{%
+           family={Isla},
+           familyi={I\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7c37675168a5cba272a982b39dcf6871}{%
+           family={Cegla},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c045b700236fc3c194fa2ecd72e27033}
+      \strng{fullhash}{c045b700236fc3c194fa2ecd72e27033}
+      \strng{bibnamehash}{c045b700236fc3c194fa2ecd72e27033}
+      \strng{authorbibnamehash}{c045b700236fc3c194fa2ecd72e27033}
+      \strng{authornamehash}{c045b700236fc3c194fa2ecd72e27033}
+      \strng{authorfullhash}{c045b700236fc3c194fa2ecd72e27033}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Electromagnetic-acoustic transducers (EMATs) consist of a magnet and a coil. They are advantageous in some non-destructive evaluation (NDE) applications because no direct contact with the specimen is needed to send and receive ultrasonic waves. However, EMATs commonly require excitation peak powers greater than 1 kW and therefore the driving electronics and the EMAT coils have to be bulky. This has hindered the development of EMAT phased arrays with characteristics similar to those of conventional piezoelectric phased arrays. Phased arrays are widely used in NDE because they offer superior defect characterization in comparison to single-element transducers. In this paper, we report a series of novel techniques and design elements that make it possible to construct an EMAT phased array that performs similarly to conventional piezoelectric arrays used in NDE. One of the key enabling features is the use of coded excitation to reduce the excitation peak power to less than 4.8 W (24 Vpp and 200 mA) so that racetrack coils with dimensions 3:2 Â 18 mm2 can be employed. Moreover, these racetrack coils are laid out along their shortest dimension so that 1/3 of their area is overlapped. This helps to reduce the crosstalk between the coils, i.e., the array elements, to less than À15 dB. We show that an 8-element EMAT phased array operating at a central frequency of 1 MHz can be used to detect defects which have a width and a depth of 0.2 and 0.8 mm respectively and are located on the surface opposite to the array.}
+      \field{issn}{0041624X}
+      \field{journaltitle}{Ultrasonics}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Ultrasonics}
+      \field{shorttitle}{{{EMAT}} Phased Array}
+      \field{title}{{{EMAT}} Phased Array: {{A}} Feasibility Study of Surface Crack Detection}
+      \field{volume}{78}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.ultras.2017.02.009
+      \endverb
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\26M9WEVV\\Isla and Cegla - 2017 - EMAT phased array A feasibility study of surface .pdf
+      \endverb
+    \endentry
+    \entry{waleCRACKCHARACTERISATIONSERVICE}{article}{}
+      \name{author}{1}{}{%
+        {{hash=de6fc80be0322f1efc081c23890bc83b}{%
+           family={Wåle},
+           familyi={W\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{de6fc80be0322f1efc081c23890bc83b}
+      \strng{fullhash}{de6fc80be0322f1efc081c23890bc83b}
+      \strng{bibnamehash}{de6fc80be0322f1efc081c23890bc83b}
+      \strng{authorbibnamehash}{de6fc80be0322f1efc081c23890bc83b}
+      \strng{authornamehash}{de6fc80be0322f1efc081c23890bc83b}
+      \strng{authorfullhash}{de6fc80be0322f1efc081c23890bc83b}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{{CRACK CHARACTERISATION FOR IN}}- {{SERVICE INSPECTION PLANNING}}}
+      \field{pages}{112}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\HY82XDPQ\\Wåle - CRACK CHARACTERISATION FOR IN- SERVICE INSPECTION .pdf
+      \endverb
+    \endentry
+    \entry{theweldinginstituteWeldingFerriticMartensitic2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=56d29c0494830dacd018eb982dceab9c}{%
+           family={{The Welding Institute}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{56d29c0494830dacd018eb982dceab9c}
+      \strng{fullhash}{56d29c0494830dacd018eb982dceab9c}
+      \strng{bibnamehash}{56d29c0494830dacd018eb982dceab9c}
+      \strng{authorbibnamehash}{56d29c0494830dacd018eb982dceab9c}
+      \strng{authornamehash}{56d29c0494830dacd018eb982dceab9c}
+      \strng{authorfullhash}{56d29c0494830dacd018eb982dceab9c}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Welding of {{Ferritic}} / {{Martensitic Stainless Steels}}~- {{TWI}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\SSJTKDEJ\\welding-of-ferritic-martensitic-stainless-steels-101.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.twi-global.com/technical-knowledge/job-knowledge/welding-of-ferritic-martensitic-stainless-steels-101
+      \endverb
+      \verb{url}
+      \verb https://www.twi-global.com/technical-knowledge/job-knowledge/welding-of-ferritic-martensitic-stainless-steels-101
+      \endverb
+    \endentry
+    \entry{eddyfiProbotHighPerformanceProbe}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Probot is a powerful, highly advanced, compact, and light probe pusher system. It is easy to transport and set up and has a small footprint.}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Probot {{High}}-{{Performance Probe Pusher System}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\B8L9EN4N\\probot-high-performance-probe-pusher-system.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/products/probot-high-performance-probe-pusher-system/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/products/probot-high-performance-probe-pusher-system/
+      \endverb
+    \endentry
+    \entry{eddyfiEctaneMultitechnologyTubing2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={EddyFi},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{5}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With several hundred units in the field,~Ectane~was the most popular multi-technology test instrument on the market. It’s time for the next generation — Ectane\,2.}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Ectane 2 Multi-Technology Tubing and Surface Test Instrument}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\7I4TIZ8P\\ectane-2-test-instrument.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/products/ectane-2-test-instrument/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/products/ectane-2-test-instrument/
+      \endverb
+    \endentry
+    \entry{eddyfiEddyfitubingprobecatalog201810Pdf}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{6}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eddyfi-Tubing-Probe-Catalog-201810.Pdf}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\S22VBMZC\\Eddyfi-tubing-probe-catalog-201810.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.eddyfi.com/wp-content/uploads/2018/11/Eddyfi-tubing-probe-catalog-201810.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eddyfi.com/wp-content/uploads/2018/11/Eddyfi-tubing-probe-catalog-201810.pdf
+      \endverb
+    \endentry
+    \entry{eddyfiMaximizingRemoteFieldTesting2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=136e44cf456a1e9df0e3610dafcd3e07}{%
+           family={{EddyFi}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{fullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{bibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorbibnamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authornamehash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \strng{authorfullhash}{136e44cf456a1e9df0e3610dafcd3e07}
+      \field{extraname}{7}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eddyfi}
+      \field{langid}{english}
+      \field{title}{Maximizing {{Remote}}-{{Field Testing Inspection Speed}}}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\N2YCIGUB\\the-secret-to-getting-the-exact-maximum-remote-field-testing-speed.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eddyfi.com/ndt/the-secret-to-getting-the-exact-maximum-remote-field-testing-speed/
+      \endverb
+      \verb{url}
+      \verb http://www.eddyfi.com/ndt/the-secret-to-getting-the-exact-maximum-remote-field-testing-speed/
+      \endverb
+    \endentry
+    \entry{isoISO97122012}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5b512ee8a59deb284ad0a6a035ba10b1}{%
+           family={{ISO}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{fullhash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{bibnamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authorbibnamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authornamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authorfullhash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Non-destructive testing -- Qualification and certification of NDT personnel}
+      \field{journaltitle}{ISO}
+      \field{langid}{english}
+      \field{shorttitle}{{{ISO}} 9712}
+      \field{title}{{{ISO}} 9712:2012}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\LHPKTHIL\\57037.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/05/70/57037.html
+      \endverb
+      \verb{url}
+      \verb http://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/05/70/57037.html
+      \endverb
+    \endentry
+    \entry{lavenderinternationalLavenderInternationalWorld2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=098e4c0e51c5066e53ee4b29b6c4c103}{%
+           family={{Lavender International}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \strng{fullhash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \strng{bibnamehash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \strng{authorbibnamehash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \strng{authornamehash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \strng{authorfullhash}{098e4c0e51c5066e53ee4b29b6c4c103}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lavender International - accredited world experts in Non Destructive Testing (NDT), with examination and consultancy services in the UK and USA.}
+      \field{journaltitle}{Lavender International}
+      \field{langid}{british}
+      \field{title}{Lavender {{International}} | {{World}} Experts in {{NDT}} Training Courses}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\\Users\\Euan\\Zotero\\storage\\D5U5D3VL\\www.lavender-ndt.com.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.lavender-ndt.com/
+      \endverb
+      \verb{url}
+      \verb https://www.lavender-ndt.com/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
